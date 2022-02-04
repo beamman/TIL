@@ -1,3 +1,5 @@
 /basic/data
 /basic/practice_exercise/__pycache__
 /basic/practice_exercise/model.pth
+/intermediates/autoencoder/__pycache__
+/intermediates/data
