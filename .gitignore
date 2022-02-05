@@ -3,3 +3,4 @@
 /basic/practice_exercise/model.pth
 /intermediates/autoencoder/__pycache__
 /intermediates/data
+/intermediates/maniford/__pycache__
