@@ -4,3 +4,6 @@
 /intermediates/autoencoder/__pycache__
 /intermediates/data
 /intermediates/maniford/__pycache__
+.DS_store
+/intermediates/pytorch_ignite/__pycache__
+/intermediates/pytorch_ignite/model.pth
