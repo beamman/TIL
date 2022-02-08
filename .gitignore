@@ -7,3 +7,6 @@
 .DS_store
 /intermediates/pytorch_ignite/__pycache__
 /intermediates/pytorch_ignite/model.pth
+/intermediates/cnn/mnist_classification/models/__pycache__
+/intermediates/cnn/mnist_classification/models/__init__.py
+/intermediates/cnn/mnist_classification/__init__.py
