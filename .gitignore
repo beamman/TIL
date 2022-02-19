@@ -10,3 +10,5 @@
 /intermediates/cnn/mnist_classification/models/__pycache__
 /intermediates/cnn/mnist_classification/models/__init__.py
 /intermediates/cnn/mnist_classification/__init__.py
+/nlp_basic/preprocessing/regex/*.txt
+/nlp_basic/preprocessing/regex/*.tsv
